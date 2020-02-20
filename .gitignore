@@ -112,4 +112,3 @@ dist
 *.sln
 
 .DS_Store
-/dist/
